@@ -1,1 +1,1 @@
-# TUe--Eindhoven-Improving-statistical-inferences
+# TU/e--Eindhoven-Improving-statistical-inferences

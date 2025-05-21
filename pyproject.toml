@@ -1,0 +1,10 @@
+[project]
+name = "tue-eindhoven-improving-statistical-inferences"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "indexed-gzip>=1.9.4",
+    "ipython>=9.2.0",
+]
